@@ -5,10 +5,10 @@ I started my Honours and my first real job in the same year.
 
 ## What I'm Working With
 
-- **Python** — pandas, data manipulation, analysis
-- **R** — data structures, statistical analysis
-- **SQL** — querying and working with databases
-- **Power BI** — building dashboards (PL-300 in progress)
+- **Python** - pandas, data manipulation, analysis
+- **R** - data structures, statistical analysis
+- **SQL** - querying and working with databases
+- **Power BI** - building dashboards (PL-300 in progress)
 
 ## What's In This GitHub
 
