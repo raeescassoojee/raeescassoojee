@@ -18,7 +18,7 @@ Right now this is mostly a learning journal. You will find:
 
 These aren't polished projects. They are notes from someone who is learning in public.
 
-## Where I'm Headed
+## Where I am Headed
 
 Completing my BScHons in Data Science with good results, then AWS Cloud Practitioner, then an MSc. Long term I want to be a senior data scientist who actually understands the business side too.
 
